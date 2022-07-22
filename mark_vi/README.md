@@ -35,6 +35,8 @@ In this project I also want to show you how to install and use WiFi Pineapple's 
 
 ## How to Set Up the WiFi Pineapple
 
+In case you might need it, check [frimware recovery/upgrade](https://downloads.hak5.org/pineapple).
+
 ### Windows OS
 
 Follow the instructions below:
@@ -44,8 +46,6 @@ Follow the instructions below:
 2. [Setup Basics](https://docs.hak5.org/wifi-pineapple-6th-gen-nano-tetra/setup/setup-basics)
 
 3. [Windows Setup](https://docs.hak5.org/wifi-pineapple-6th-gen-nano-tetra/setup/wifi-pineapple-nano-windows-setup)
-
-In case you might need it, check [frimware recovery/upgrade](https://downloads.hak5.org/pineapple).
 
 ### Kali Linux
 

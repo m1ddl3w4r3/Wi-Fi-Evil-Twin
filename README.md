@@ -38,6 +38,8 @@ If you have an older device, go to [WiFi Pineapple Nano \(Mark VI\)](https://git
 
 ## How to Set Up the WiFi Pineapple
 
+In case you might need it, check [frimware recovery/upgrade](https://downloads.hak5.org/pineapple).
+
 ### Windows OS
 
 Follow the instructions below:
@@ -45,8 +47,6 @@ Follow the instructions below:
 1. [Setup Basics](https://docs.hak5.org/wifi-pineapple/setup/setting-up-your-wifi-pineapple)
 
 2. [Windows Setup](https://docs.hak5.org/wifi-pineapple/setup/connecting-to-the-wifi-pineapple-on-windows)
-
-In case you might need it, check [frimware recovery/upgrade](https://downloads.hak5.org/pineapple).
 
 ### Kali Linux
 
