@@ -52,7 +52,7 @@ Follow the instructions below:
 Download and run the following script:
 
 ```bash
-wget https://raw.githubusercontent.com/hak5darren/wp6/master/wp6.sh && mv wp6.sh /usr/bin/wp6 && chmod +x /usr/bin/wp6 && wp6
+wget https://downloads.hak5.org/api/devices/wifipineapplenano/tools/wp6.sh/1.0/linux -O wp6.sh && mv wp6.sh /usr/bin/wp6 && chmod +x /usr/bin/wp6 && wp6
 ```
 
 ## How to Run

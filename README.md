@@ -53,7 +53,7 @@ Follow the instructions below:
 Download and run the following script:
 
 ```bash
-wget https://downloads.hak5.org/wp7.sh && mv wp7.sh /usr/bin/wp7 && chmod +x /usr/bin/wp7 && wp7
+wget https://downloads.hak5.org/api/devices/wifipineapplemk7/tools/wp7.sh/1.0/linux -O wp7.sh && mv wp7.sh /usr/bin/wp7 && chmod +x /usr/bin/wp7 && wp7
 ```
 
 ## How to Run
