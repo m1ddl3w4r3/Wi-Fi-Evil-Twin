@@ -88,7 +88,7 @@ Hide the open access point.
 
 In WiFi Pineapple's dashboard go to `PineAP Suite -> Impersonation` and add desired (portal) names to `Spoofed AP Pool`, then, set your settings as in picture below to spoof all the access points in your range.
 
-<p align="center"><img src="https://github.com/m1ddl3w4r3/evil-twin/blob/master/img/settings.jpg" alt="PineAP Settings"></p>
+<p align="center"><img src="https://github.com/m1ddl3w4r3/evil-twin/img/settings.jpg" alt="PineAP Settings"></p>
 
 <p align="center">Figure 1 - PineAP Settings</p>
 
@@ -174,14 +174,14 @@ On Windows OS you might need to specify a full path to the executable.
 
 ## Images
 
-<p align="center"><img src="https://github.com/m1ddl3w4r3/evil-twin/blob/master/img/landing_page_pc.jpg" alt="Landing Page (PC)"></p>
+<p align="center"><img src="https://github.com/m1ddl3w4r3/evil-twin/img/landing_page_pc.jpg" alt="Landing Page (PC)"></p>
 
 <p align="center">Figure 2 - Landing Page (PC)</p>
 
-<p align="center"><img src="https://github.com/m1ddl3w4r3/evil-twin/blob/master/img/landing_page_mobile.jpg" alt="Landing Page (Mobile)"></p>
+<p align="center"><img src="https://github.com/m1ddl3w4r3/evil-twin/img/landing_page_mobile.jpg" alt="Landing Page (Mobile)"></p>
 
 <p align="center">Figure 3 - Landing Page (Mobile)</p>
 
-<p align="center"><img src="https://github.com/m1ddl3w4r3/evil-twin/blob/master/img/log.jpg" alt="Log"></p>
+<p align="center"><img src="https://github.com/m1ddl3w4r3/evil-twin/img/log.jpg" alt="Log"></p>
 
 <p align="center">Figure 4 - Log</p>
