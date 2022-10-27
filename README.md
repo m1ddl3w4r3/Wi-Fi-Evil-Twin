@@ -88,7 +88,7 @@ Hide the open access point.
 
 In WiFi Pineapple's dashboard go to `PineAP Suite -> Impersonation` and add desired (portal) names to `Spoofed AP Pool`, then, set your settings as in picture below to spoof all the access points in your range.
 
-<p align="center"><img src="https://github.com/m1ddl3w4r3/Wi-Fi-evil-twin/img/settings.jpg" alt="PineAP Settings"></p>
+<p align="center"><img src="https://github.com/m1ddl3w4r3/Wi-Fi-Evil-Twin/blob/master/img/settings.jpg" alt="PineAP Settings"></p>
 
 <p align="center">Figure 1 - PineAP Settings</p>
 
