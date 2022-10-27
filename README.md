@@ -96,7 +96,7 @@ In WiFi Pineapple's dashboard go to `PineAP Suite -> Impersonation` and add desi
 
 Find out more about PineAP Suite [here](https://docs.hak5.org/wifi-pineapple/ui-overview/pineap).
 
-Find out how to turn up your WiFi Pineapple's signal strength to missassociate clients to the fake WiFi network from my other [project](https://github.com/ivan-sincek/wifi-penetration-testing-cheat-sheet#1-configuration).
+Find out how to turn up your WiFi Pineapple's signal strength to missassociate clients to the fake WiFi network from my other [project](https://github.com/m1ddl3w4r3/wifi-penetration-testing-cheat-sheet#1-configuration).
 
 Use filtering so you won't go out of your testing scope.
 
